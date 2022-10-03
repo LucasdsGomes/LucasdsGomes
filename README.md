@@ -18,7 +18,7 @@ Atualmente estou estudando as linguagens Python e Ruby on Rails e em breve haver
 # Contatos
 
 Gmail: dsglucass@gmail.com
-Instagram: ogomessz_
+Instagram: @ogomessz_
 
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucas-gomes-b2778a252)
