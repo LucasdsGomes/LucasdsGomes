@@ -21,8 +21,11 @@ dsglucass@gmail.com
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasdsGomes&repo=LucasdsGomes.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 https://github.com/LucasdsGomes/AgroDJ
+
 https://github.com/LucasdsGomes/ClockProject
+
 https://github.com/LucasdsGomes/Django-CRM
 
 PARA VER MAIS, ACESSE MEU REPOSITÓRIO!
