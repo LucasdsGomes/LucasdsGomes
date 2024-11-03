@@ -1,6 +1,11 @@
 ### Olá 👋
 
 # Biografia
+Hello, my name is Lucas Gomes, and it's a pleasure to meet you!
+I am a professional in the Information Technology (IT) field, specializing in system development. Currently, I am pursuing a degree in Systems Analysis and Development and am committed to continuously studying the latest technologies and programming languages of interest, as well as understanding the workings of back-end systems within a social context. I leverage my professional opportunities to apply the knowledge I acquire and learn even more throughout the process. I enjoy working in teams and take great pleasure in showcasing my analytical skills, collaborative ability, and initiative, always focused on achieving the best results for the company.
+
+# PT-BR:
+
 Olá, meu nome é Lucas Gomes, é um prazer conhecê-lo! 
 Sou um profissional da área de Tecnologia da Informação (TI), com foco em desenvolvimento de sistemas. Atualmente, estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas e me dedico a estudar constantemente as tecnologias mais recentes e linguagens de programação de meu interesse, bem como o funcionamento do Back-End aplicado no contexto social. Utilizo minhas oportunidades profissionais para colocar em prática o conhecimento adquirido e aprender ainda mais durante o processo. Gosto de trabalhar em equipe e tenho grande prazer em demonstrar minhas habilidades analíticas, capacidade de colaboração e iniciativa, sempre focado em alcançar os melhores resultados para a empresa.
 
