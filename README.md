@@ -12,6 +12,7 @@ Sou um profissional da área de Tecnologia da Informação (TI), com foco em des
 # Contatos / Contacts
 
 github: https://github.com/LucasdsGomes
+https://www.linkedin.com/in/lucasdsgomes/
 dsglucass@gmail.com
 +55 41 995090844
 
@@ -34,5 +35,3 @@ https://github.com/LucasdsGomes/Django-CRM
 
 PARA VER MAIS, ACESSE MEU REPOSITÓRIO!
 https://luccagomesdev.vercel.app/
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>]([https://www.linkedin.com/in/lucas-gomes-b2778a252](https://www.linkedin.com/in/lucasdsgomes/))
