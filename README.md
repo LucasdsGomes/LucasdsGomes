@@ -11,9 +11,12 @@ Sou um profissional da área de Tecnologia da Informação (TI), com foco em des
 
 # Contatos / Contacts
 
-github: https://github.com/LucasdsGomes
+https://github.com/LucasdsGomes
+
 https://www.linkedin.com/in/lucasdsgomes/
+
 dsglucass@gmail.com
+
 +55 41 995090844
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
