@@ -36,6 +36,7 @@ https://github.com/LucasdsGomes/ClockProject
 
 https://github.com/LucasdsGomes/Django-CRM
 
-PARA VER MAIS, ACESSE MEU REPOSITÓRIO!
-THAT'S MY PORTFOLIO!
+**PARA VER MAIS, ACESSE MEU REPOSITÓRIO!**
+**THAT'S MY PORTFOLIO!**
+
 **https://luccagomesdev.vercel.app/**
