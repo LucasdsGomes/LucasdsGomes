@@ -43,7 +43,7 @@ Compartilho minha evolução profissional e projetos através do **LinkedIn**, s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
@@ -55,11 +55,19 @@ Compartilho minha evolução profissional e projetos através do **LinkedIn**, s
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LucasdsGomes&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&cache_seconds=1800"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasdsGomes&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasdsGomes&theme=tokyonight"
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasdsGomes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasdsGomes&theme=tokyonight"
     height="180"
   />
 </p>
+
+
