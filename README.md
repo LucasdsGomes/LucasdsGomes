@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend | FullStack | Analista de Dados`**
 
-Me chamo **Lucas de Souza Gomes**, tenho 21 anos e sou natural de Curitiba.  
+Me chamo **Lucas de Souza Gomes**, sou de Curitiba.  
 Sou formado em **Análise e Desenvolvimento de Sistemas pelo IFMS** e apaixonado por tecnologia, dados e soluções escaláveis.
 
 Compartilho minha evolução profissional e projetos através do **LinkedIn**, sempre buscando crescimento contínuo em **Soft Skills** e **Hard Skills**, com foco em aplicações web, APIs e análise de dados.
