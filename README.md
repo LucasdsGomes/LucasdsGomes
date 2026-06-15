@@ -13,7 +13,7 @@
 
 Sou o **Lucas de Souza Gomes**, de Curitiba/PR, formado em **Análise e Desenvolvimento de Sistemas pelo IFMS**.
 
-Atuo na **[Milen.ia](https://milen.ia.com)**, uma consultoria de IA aplicada a negócios, onde projeto e mantenho **sistemas de SDR (Sales Development Representative) automatizados** com agentes de IA — combinando automação de workflows, integração com WhatsApp/CRM e prompt engineering para criar fluxos de atendimento outbound e inbound baseados em técnicas como **SPIN Selling**.
+Atuo na **[Milen.ia](https://milen-ia.com)**, uma consultoria de IA aplicada a negócios, onde projeto e mantenho **sistemas de SDR (Sales Development Representative) automatizados** com agentes de IA — combinando automação de workflows, integração com WhatsApp/CRM e prompt engineering para criar fluxos de atendimento outbound e inbound baseados em técnicas como **SPIN Selling**.
 
 Também atuo na **Hitech Electric**, empresa de mobilidade elétrica, desenvolvendo **dashboards financeiros e comerciais**, integrações com ERP e CRM, e automações de ponta a ponta para times de vendas.
 
