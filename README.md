@@ -13,13 +13,13 @@
 
 Sou o **Lucas de Souza Gomes**, de Curitiba/PR, formado em **Análise e Desenvolvimento de Sistemas pelo IFMS**.
 
-Trabalho na fronteira entre automação de negócio e engenharia de dados: construo a camada que liga sistemas operacionais a decisões — seja um agente de IA qualificando leads, um pipeline de telemetria recebendo sinais de veículo em tempo real ou uma API servindo os dois.
+Trabalho na fronteira entre automação de negócio e engenharia de dados: construo a camada que liga sistemas operacionais a decisões, seja um agente de IA qualificando leads, um pipeline de telemetria recebendo sinais de veículo em tempo real ou uma API servindo os dois.
 
-Atuo na **[Milen.ia](https://milen-ia.com)**, consultoria de IA aplicada a negócios. Comecei projetando **sistemas de SDR automatizados** com agentes de IA — automação de workflows, integração com WhatsApp e CRM, e prompt engineering para fluxos de outbound e inbound baseados em **SPIN Selling**.
+Atuo na **[Milen.ia](https://milen-ia.com)**, consultoria de IA aplicada a negócios. Comecei projetando **sistemas de SDR automatizados** com agentes de IA, automação de workflows, integração com WhatsApp e CRM, e prompt engineering para fluxos de outbound e inbound baseados em **SPIN Selling**.
 
 Hoje minha frente principal é a **plataforma de telemetria de veículos comerciais elétricos** da **Hitech Electric**: ingestão de sinais do veículo via **MQTT → Azure IoT Hub → Event Hub → Azure Functions → Supabase**, schema canônico de sinais, **API em FastAPI** cobrindo os domínios da plataforma com testes em pytest, dashboard operacional em Next.js e diagnóstico de frota assistido por LLM. Antes disso, entreguei os dashboards financeiro e comercial da mesma empresa, integrados a ERP e CRM.
 
-Em paralelo, estou aprofundando **fundamentos de machine learning** de forma prática — do baseline honesto ao cuidado com vazamento de dados e split por grupo — aplicando isso a um projeto de classificação de bioacústica e a dados reais de frota.
+Em paralelo, estou aprofundando **fundamentos de machine learning** de forma prática do baseline honesto ao cuidado com vazamento de dados e split por grupo aplicando isso a um projeto de classificação de bioacústica e a dados reais de frota.
 
 Antes de migrar para essa área, atuei como **desenvolvedor Backend/FullStack**. Não é meu foco principal hoje, mas é o que me permite entender, debugar e estender integrações, bancos e lógica de sistema em vez de só orquestrá-los.
 
